@@ -1,7 +1,6 @@
 ```
 Copyright (c) 2024+, Denis Veretennikov Andreevich,
 Copyright (c) 2024+, USNTP Team (https://github.com/USNTP)
-
 ```
 
 ```

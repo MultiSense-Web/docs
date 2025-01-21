@@ -1,6 +1,6 @@
 ```
-Copyright (c) 2024+, Denis Veretennikov Andreevich,
-Copyright (c) 2024+, USNTP Team (https://github.com/USNTP)
+Copyright (c) 2025, Denis Veretennikov Andreevich,
+Copyright (c) 2025, MultiSense-Web (https://github.com/MultiSense-Web)
 ```
 
 ```

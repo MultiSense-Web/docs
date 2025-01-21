@@ -4,6 +4,23 @@
 
 Protocol is represented by actors, objects and servers.
 
+## .well-known
+
+Any webserver implementing USNTP must have `./well-known/usntp` route.
+That json like this:
+
+```json
+{
+  "@USNTP": ".well-known",
+  "contact": <EMAIL TO CONTACT OPERATORS OF THIS SOCIAL NETWORK>,
+  "supported": [<NETWORK TYPES SUPPORTED BY SERVER>]
+}
+```
+
+All fields here and mandatory.
+
+Also check <a onclick="$to('netTypes')">Network types</a>.
+
 ## JSON Object format
 
 All USNTP JSON objects **MUST** contain `@USNTP` key.
